@@ -9,5 +9,9 @@
       "src": "/(servicios.html)",
       "dest": "Mining/wsgi.py"
     }
+  ],
+  "rewrites": [
+    { "source": "/servicios", "destination": "https://prueba2-taupe.vercel.app/Mining_cap/App/templates/App/servicios.html" }
   ]
 }
+
