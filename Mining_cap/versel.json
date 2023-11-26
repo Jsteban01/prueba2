@@ -11,7 +11,7 @@
     }
   ],
   "rewrites": [
-    { "source": "/servicios", "destination": "https://prueba2-taupe.vercel.app/Mining_cap/App/templates/App/servicios.html" }
+    { "source": "https://prueba2-taupe.vercel.app/servicios", "destination": "https://prueba2-taupe.vercel.app/Mining_cap/App/templates/App/servicios.html" }
   ]
 }
 
